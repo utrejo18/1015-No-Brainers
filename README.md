@@ -176,4 +176,4 @@ except KeyboardInterrupt:
     print("Thank you! Exiting now")
 
 
-#Names: Preet Durllabh, Uriel Trejo
+#Names: Preet Durllabh, Uriel Trejo, Alexis Watson
