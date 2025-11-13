@@ -18,12 +18,16 @@ sending fake deauth packets to the targeted device as the wifi router. We can th
 - scapy
 
 ## Project structure
-Our main consists of a README
+Our main consists of a:
+- README.md, which has a basic overview of the project.
+- .gitingore, which contains files that git will be ignoring.
+-  src folder, which contains copies of the code used
+-  
 
 ## How to Contribute
 Team members can contribute by researching the inner workings and usages for a fully operational rasp pi wifi jammer, setting up and running programs to test our prototype, and keeping track of new developments as we approach a final product.
 
 ## Current Status
-Researching how to implemeent deauth attacks with raspberry pi and set up of software while we wait for the single board computer to arive
+Researching how to implemeent deauth attacks with raspberry pi and set up of software while we wait for the single board computer to arive.
 
 ## License
