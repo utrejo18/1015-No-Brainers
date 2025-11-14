@@ -27,7 +27,8 @@ Our main consists of a:
 - README.md, which has a basic overview of the project.
 - .gitingore, which contains files that git will be ignoring.
 -  src folder, which contains copies of the code used
--  assets, which contains images and videos of our project =
+-  assets folder, which contains images and videos of our project
+-  docs folder, which has documentations that might be helpful
 
 ## How to Contribute
 Team members can contribute by researching the inner workings and usages for a fully operational rasp pi wifi jammer, setting up and running programs to test our prototype, and keeping track of new developments as we approach a final product.
