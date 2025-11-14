@@ -33,7 +33,7 @@ Our main consists of a:
 Team members can contribute by researching the inner workings and usages for a fully operational rasp pi wifi jammer, setting up and running programs to test our prototype, and keeping track of new developments as we approach a final product.
 
 ## Current Status
-Researching how to implemeent deauth attacks with raspberry pi and set up of software while we wait for al the parts to arrive.
+Researching how to implement deauth attacks with raspberry pi and set up of software while we wait for all the parts to arrive.
 
 ## License
 MIT License
