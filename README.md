@@ -9,6 +9,7 @@ sending fake deauth packets to the targeted device as the wifi router. We can th
 - Vanessa Valdes - Research and development - Github: @vasliro
 - Alexis Watson - Research and development - Github: @missfluffylove
 - Uriel Trejo - Programming and Product Testing - Github: @utrejo18
+- Brandon Pinto - Programming and Product Testing - Github: @brandonnnpinto
 
 ## Setup Instructions
 1. Install Kali linux onto SD card then insert SD card into rasp pi
