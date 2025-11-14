@@ -8,6 +8,10 @@ sending fake deauth packets to the targeted device as the wifi router. We can th
 - Vanessa Valdes - Research and development - Github: @vasliro
 
 ## Setup Instructions
+1. On kali linux, go to the route directory
+2. Make a new directory for your jammer then go to said directory
+3. create a python file for your code
+4. Enter code and run the script
 
 ## Technologies Used
 - Kali Linux
