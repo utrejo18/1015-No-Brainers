@@ -8,7 +8,9 @@ sending fake deauth packets to the targeted device as the wifi router. We can th
 - Vanessa Valdes - Research and development - Github: @vasliro
 
 ## Setup Instructions
-
+1. Install Kali linux onto SD card then insert SD card into rasp pi
+2. plug in your wifi adaptor as well as a screen/keyboard
+3. copy code into the kali linux terminal, and run it to send the deauth attack
 
 ## Technologies Used
 - Kali Linux
@@ -16,7 +18,9 @@ sending fake deauth packets to the targeted device as the wifi router. We can th
 - raspberry pi
 - USB Wifi Adaptor
 - python
-- scapy
+- aircrack-ng
+- airodump-ng
+- aireplay-ng
 
 ## Project structure
 Our main consists of a:
