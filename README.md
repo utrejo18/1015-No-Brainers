@@ -8,10 +8,9 @@ sending fake deauth packets to the targeted device as the wifi router. We can th
 - Vanessa Valdes - Research and development - Github: @vasliro
 
 ## Setup Instructions
-1. On kali linux, go to the route directory
-2. Make a new directory for your jammer then go to said directory
-3. create a python file for your code
-4. Enter code and run the script
+1. Install Kali linux onto SD card then insert SD card into rasp pi
+2. plug in your wifi adaptor as well as a screen/keyboard
+3. copy code into the kali linux terminal, and run it to send the deauth attack
 
 ## Technologies Used
 - Kali Linux
@@ -19,7 +18,9 @@ sending fake deauth packets to the targeted device as the wifi router. We can th
 - raspberry pi
 - USB Wifi Adaptor
 - python
-- scapy
+- aircrack-ng
+- airodump-ng
+- aireplay-ng
 
 ## Project structure
 Our main consists of a:
@@ -32,7 +33,7 @@ Our main consists of a:
 Team members can contribute by researching the inner workings and usages for a fully operational rasp pi wifi jammer, setting up and running programs to test our prototype, and keeping track of new developments as we approach a final product.
 
 ## Current Status
-Researching how to implemeent deauth attacks with raspberry pi and set up of software while we wait for the single board computer to arive.
+Researching how to implement deauth attacks with raspberry pi and set up of software while we wait for all the parts to arrive.
 
 ## License
 MIT License
