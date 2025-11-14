@@ -2,7 +2,7 @@
 
 ## How It works
 Using raspberry pi to create a deauthentication attack at targeted devices connected to a network. We can essentially "trick" the wifi router to disconnect the target by
-sending fake death packets to the targeted device as the wifi router. We can then continue to send out these deauth packets to continuously keep the device disconnected from the wifi. 
+sending fake deauth packets to the targeted device as the wifi router. We can then continue to send out these deauth packets to continuously keep the device disconnected from the wifi. 
 
 ## Team members
 - Vanessa Valdes - Research and development - Github: @vasliro
