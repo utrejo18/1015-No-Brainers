@@ -1,1 +1,15 @@
+# identify your network
+iwconfig
 
+# Enter monitor mode
+sudo airmon-ng start [your network interface here]
+
+# Scan for specific Networks nearby
+sudo airodump-ng [newly created interface you made in the previopus step here]
+
+# after this command, you should be given a list of nearby wifi networks, along with their BSSID and the channel they are on, for simplicity, I will use a placeholder number, however
+# you should use the numbers that load on screen once this command is executed
+
+# Find the specific device you will be attacking, replace all numbers in this next command with the information that should have loaded in the earlier step
+sudo airdumo-ng --bssid 00:11:22:33:44:55 -c 2 [created network interface from earlier step here]
+# where 00:11:22:33:44:55 is the BSSID and 2 is the channel
