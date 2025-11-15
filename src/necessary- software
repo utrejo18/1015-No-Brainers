@@ -1,3 +1,0 @@
-sudo apt install aircrack-ng
-
-# make sure you also updated and have the latest version installed for convenience with: sudo apt update and sudo apt upgrade -y
