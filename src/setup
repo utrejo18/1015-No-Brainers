@@ -11,5 +11,5 @@ sudo airodump-ng <newly created interface you made in the previopus step here>
 # you should use the numbers that load on screen once this command is executed
 
 # Find the specific device you will be attacking, replace all numbers in this next command with the information that should have loaded in the earlier step
-sudo airdumo-ng --bssid 00:11:22:33:44:55 -c 2 <created network interface from earlier step here>
+sudo airdump-ng --bssid 00:11:22:33:44:55 -c 2 <created network interface from earlier step here>
 # where 00:11:22:33:44:55 is the BSSID and 2 is the channel
