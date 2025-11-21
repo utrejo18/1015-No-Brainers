@@ -1,3 +1,4 @@
 how it works: tehcnical steps: whats going on that we can't see
 wifi deauthenticator
-It sends a signal to a specific device to disconnect from the wifi.
+It sends a signal to the wifi, and the device we want to disconnect, pretending to be each other.
+Then it sends messages to both that there is no authentication, so they both disconnect.
