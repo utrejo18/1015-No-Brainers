@@ -1,3 +1,5 @@
 ---------- BELOW IS HOW YOU WILL SETUP KALI LINUX ON YOUR RASPBERRY PI ----------
 Many things are needed before you can begin. Keyboard & Mouse, display & display connection (HDMI), storage(SD Card), and Power supply.
 
+TLDR; Download Kali Linux ARM for the specific raspberry pi you're using,
+then flash it onto the micro SD card using a seperate program.
