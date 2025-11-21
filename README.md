@@ -10,6 +10,8 @@ sending fake deauth packets to the targeted device as the wifi router. We can th
 - Alexis Watson - Research and development - Github: @missfluffylove
 - Uriel Trejo - Programming, Product Testing and Documentation - Github: @utrejo18
 - Brandon Pinto - Programming and development - Github: @brandonnnpinto
+- Preet Durllabh - Research Support & Documentation GitHub: @preetiyo2017
+
 
 ## Setup Instructions
 1. Review our Legal Disclaimer in the docs folder
