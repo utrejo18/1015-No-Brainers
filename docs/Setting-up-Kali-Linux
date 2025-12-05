@@ -17,3 +17,18 @@ Guide for putting kali on microSD:
 https://www.kali.org/docs/usb/live-usb-install-with-windows/
 
 Make ABSOLUTELY SURE you are on the right website and have the official Kali Linux
+
+---------- Walkthrough ----------
+Step 1: Downloading correcct version of Kali Linux for your raspberry pi.
+Follow the download link above to view the versions of kali linux availible for various machine variations. Select 32-bit or 64-bit depending on what your rasperry pi is.
+
+Step 2: Download Raspberry Pi Imager
+Follow the link here: https://www.raspberrypi.com/software/ to download the raspberry pi imager software to flash the Kali Linux file onto a microSD card.
+Follow the steps the imager software provides to continue to flashing Kali Linux onto your microSD card. 
+
+Step 3: After SD card is prepped.
+After flashing Kali Linux onto an SD card. All that is left to do is insert the SD card into the Raspberry pi and make sure all cables for input, output, and power are connected.
+Once the Raspberry pi is powered on, please be patient and wait a few mins for the first time boot. 
+(We ran into the problem of nothing appearing on screen thinking we did something wrong but this was just because the raspberry pi was doing a first time boot and was taking time to set everything up.)
+Following the steps everything should work. If you run into any problems refer to https://www.kali.org/docs/troubleshooting/ for troubleshooting help.
+
